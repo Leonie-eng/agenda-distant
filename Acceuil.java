@@ -1,5 +1,5 @@
 public class Acceuil {
     public static void main(String[] args) {
-        System.out.println("Bonjour et bienvenue");
+        System.out.println("Bonjour et bienvenue!");
     }
 }
